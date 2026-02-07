@@ -11,3 +11,5 @@ console.log("helloworld");
   async function
   fetching data from api
 */
+
+// Day 1

@@ -1,4 +1,9 @@
 # code
+# bun --watch projectname.js
+# npx nodemon fileName
+# node filename.js
+# gcc projectname.c -o projectname => .\projectname
+# python3 projectname.py
 **Use this folder most of the time:** learn and write code here.
 
 
