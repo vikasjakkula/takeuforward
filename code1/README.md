@@ -13,13 +13,13 @@
 
 ## WEEK 1: Core Foundations
 
-- [ ] **Day 1:**  
-  - [ ] let / const  
-  - [ ] data types  
-  - [ ] operators  
-  - [ ] conditionals (if/else)  
-  - [ ] loops  
-  - [ ] functions (declaration/expression)
+- [✅] **Day 1:**  
+  - [✅] let / const  
+  - [✅] data types  
+  - [✅] operators  
+  - [✅] conditionals (if/else)  
+  - [✅] loops  
+  - [✅] functions (declaration/expression)
 
 ## WEEK 2: Functions & Scope
 
