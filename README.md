@@ -1,22 +1,11 @@
-# Code – Learning & Practice
+## Run / install
 
-Quick reference for basics and where to find things. **Main focus: C, Python, JavaScript** (in `code1`). Rest (CSS, HTML, Next.js, scraping, SQL) lives in `code2` for occasional use.
+- **JS (Bun):** From project root: `bun install`, then `bun run script.js`.
+- **C:** Compile with `gcc file.c -o out` then run `./out`.
+- **Python:** `python script.py` or `python3 script.py`.
+- **Next.js:** `cd code2/nextjs/<project>` then `npm install` and `npm run dev`.
 
----
-
-## Folder structure
-
-| Folder | Use | Contents |
-|--------|-----|----------|
-| **code1/** | **Primary** – learn and write code here | C, Python, JavaScript |
-| **code2/** | **Secondary** – once in a blue moon | CSS, HTML, Next.js, scraping, SQL |
-
-- **code1** = daily learning and practice (C, Python, JS).
-- **code2** = reference and rare practice for other topics.
-
----
-
-## Basics (short, pointwise)
+**Languages_Dev**
 
 ### C (`code1/c/`)
 - Compiled, procedural; no OOP built-in.
@@ -76,11 +65,25 @@ Quick reference for basics and where to find things. **Main focus: C, Python, Ja
 
 ---
 
-## Run / install
+1. http requests. its structure
 
-- **JS (Bun):** From project root: `bun install`, then `bun run script.js`.
-- **C:** Compile with `gcc file.c -o out` then run `./out`.
-- **Python:** `python script.py` or `python3 script.py`.
-- **Next.js:** `cd code2/nextjs/<project>` then `npm install` and `npm run dev`.
+get, put, post, delete
 
-Navigate: **code1** for C, Python, JS; **code2** for the rest.
+fetch('https://api.example.com/users', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Authorization': 'Bearer <token>'
+  },
+  body: JSON.stringify({
+    name: 'Alex',
+    age: 20
+  }) 
+})
+.then(res => res.json())
+.then(data => {
+  console.log(data);
+})
+.catch(err => {
+  console.error(err);
+});
