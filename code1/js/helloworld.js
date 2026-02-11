@@ -38,13 +38,14 @@ console.log("helloworld");
 //   result = 5;
 // }, 1000);
 
-let myPromise = new Promise(function(resolve, reject){
-  ok = true;
-  if(ok) {
-    resolve(ok);
-  }
-  else {
-    reject(d);
-  }
-});
-console.log(myPromise);
+// let myPromise = new Promise(function(resolve, reject){
+//   ok = true;
+//   if(ok) {
+//     resolve(ok);
+//   }
+//   else {
+//     reject(d);
+//   }
+// });
+// console.log(myPromise);
+
