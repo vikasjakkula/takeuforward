@@ -38,11 +38,11 @@
 
 ## WEEK 2: Functions & Scope
 
-- [ ] **Day 2:**  
-  - [ ] arrow functions  
-  - [ ] function scope  
-  - [ ] block & global scope  
-  - [ ] hoisting
+- [✅] **Day 2:**  
+  - [✅] arrow functions  
+  - [✅] function scope  
+  - [✅] block & global scope  
+  - [✅] hoisting
 
 ## WEEK 3: Objects & Arrays
 
@@ -76,9 +76,9 @@
 - [ ] **Day 6:**  
   - [ ] DOM manipulation  
   - [ ] events  
-  - [ ] fetch API  
-  - [ ] setTimeout  
-  - [ ] setInterval
+  - [✅] fetch API  
+  - [✅] setTimeout  
+  - [✅] setInterval
 
 ## WEEK 7: Build & Revision
 
@@ -92,49 +92,63 @@
 
 - [✅] 🐍 **Python **
 
+- [ ] **Day 1:**
+  - [✅] Basics
+  - [✅] Second maximum of an array
+  - [✅] Max || Min difference of an array
+  - [✅] Reverse array elements
+  - [✅] No.of duplicate elements
+  - [ ] Sum of Even || Odd || Prime elements in an array
+  - [ ] Max of Even || Odd || Prime element in array
+
+- [ ] **Day 2:** 
+  - [ ] Linear || Binary searching
+  - [ ] Bubble || Selection || Insertion || Quick || counting || Radix || Merge sorting
+
+
 ## WEEK 1: Getting Started with Python
 
-- [ ] **Day 1:**  
-  - [ ] Install Python & Setup  
-  - [ ] Hello World with `print()`  
-  - [ ] Using the Python REPL
+- [✅] **Day 1:**  
+  - [✅] Install Python & Setup  
+  - [✅] Hello World with `print()`  
+  - [✅] Using the Python REPL
 
-- [ ] **Day 2:**  
-  - [ ] Variables and Assignment  
-  - [ ] Data Types (int, float, str, bool)
+- [✅] **Day 2:**  
+  - [✅] Variables and Assignment  
+  - [✅] Data Types (int, float, str, bool)
 
-- [ ] **Day 3:**  
-  - [ ] User Input (`input()`)  
-  - [ ] Basic Math & Operators
+- [✅] **Day 3:**  
+  - [✅] User Input (`input()`)  
+  - [✅] Basic Math & Operators
 
-- [ ] **Day 4:**  
-  - [ ] Type Checking & Conversion (`type()`, `str()`, `int()`, etc)  
-  - [ ] Simple Expressions
+- [✅] **Day 4:**  
+  - [✅] Type Checking & Conversion (`type()`, `str()`, `int()`, etc)  
+  - [✅] Simple Expressions
 
 ## WEEK 2: Logic and Flow
 
-- [ ] **Day 5:**  
-  - [ ] If, Else, Elif
+- [✅] **Day 5:**  
+  - [✅] If, Else, Elif
 
 - [ ] **Day 6:**  
-  - [ ] Comparison & Logical Operators  
-  - [ ] Write Simple Decisions
+  - [✅] Comparison & Logical Operators  
+  - [✅] Write Simple Decisions
 
 - [ ] **Day 7:**  
-  - [ ] Practice: Mini Conditional Quiz
+  - [✅] Practice: Mini Conditional Quiz
 
 - [ ] **Day 8:**  
-  - [ ] While Loops
+  - [✅] While Loops
 
 - [ ] **Day 9:**  
-  - [ ] For Loops & Ranges
+  - [✅] For Loops & Ranges
 
 - [ ] **Day 10:**  
-  - [ ] `break`, `continue`, `pass`
-  - [ ] Nested Loops
+  - [✅] `break`, `continue`, `pass`
+  - [✅] Nested Loops
 
 - [ ] **Day 11:**  
-  - [ ] Practice: Loop Challenges
+  - [✅] Practice: Loop Challenges
 
 ## WEEK 3: Functions, Data Handling
 
@@ -192,22 +206,5 @@
 - [ ] **Day 26:**  
   - [ ] Modules & Importing  
   - [ ] Installing with pip
-
-- [ ] **Day 27:**  
-  - [ ] Virtual Environments in Python
-
-## WEEK 6: Build & Review
-
-- [ ] **Day 28:**  
-  - [ ] Mini Project #1: To-Do List App (console)
-
-- [ ] **Day 29:**  
-  - [ ] Mini Project #2: Calculator or Guessing Game
-
-- [ ] **Day 30:**  
-  - [ ] Review:  
-    - [ ] Explain Your Code  
-    - [ ] Read Sample Python Code  
-    - [ ] Refactor Old Code
 
 ---
