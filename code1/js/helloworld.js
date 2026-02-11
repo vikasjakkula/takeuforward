@@ -49,3 +49,33 @@ console.log("helloworld");
 // });
 // console.log(myPromise);
 
+// function delay(ms) {
+//   return new Promise(resolve => setTimeout(resolve, ms));
+// }
+
+// async function run() {
+//   await delay(1000);
+//   console.log("hello");
+
+//   await delay(1000);
+//   console.log("hellooo");
+
+//   await delay(5000);
+//   console.log("helloo");
+// }
+
+// run();
+
+// function orderfood(paymentSuccess){
+//   return new Promise((resolve, reject) => {
+//     if(paymentSuccess) {
+//       resolve("food delivered");
+//      } else {
+//       reject("no food is coming to your home");
+//      }
+//   });
+// }
+
+// orderfood(true)
+//   .then(result => console.log(result))
+//   .catch(error => console.log(error));
