@@ -1,4 +1,22 @@
+- [✅] 🐍 **React/ Next.js **
+
+- [ ] **Day 1:**
+  - [✅] Protected Routes
+  - [ ] 
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+
+
+
+
 ## Run / install
+
 
 - **JS (Bun):** From project root: `bun install`, then `bun run script.js`.
 - **C:** Compile with `gcc file.c -o out` then run `./out`.
@@ -64,26 +82,3 @@
 - Change data: `INSERT`, `UPDATE`, `DELETE`.
 
 ---
-
-1. http requests. its structure
-
-get, put, post, delete
-
-fetch('https://api.example.com/users', {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json',
-    'Authorization': 'Bearer <token>'
-  },
-  body: JSON.stringify({
-    name: 'Alex',
-    age: 20
-  }) 
-})
-.then(res => res.json())
-.then(data => {
-  console.log(data);
-})
-.catch(err => {
-  console.error(err);
-});

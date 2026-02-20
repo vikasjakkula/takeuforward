@@ -100,6 +100,13 @@
   - [✅] No.of duplicate elements
   - [ ] Sum of Even || Odd || Prime elements in an array
   - [ ] Max of Even || Odd || Prime element in array
+  - [ ] Counting digits of an number
+  - [ ] Sum of all digits of an number
+  - [ ] Reversing digits of an number
+  - [ ] Factorial of an number
+  - [ ] Fibbonaci series
+  - [ ] Armstrong number
+  - [ ] Magic number
 
 - [ ] **Day 2:** 
   - [ ] Linear || Binary searching
