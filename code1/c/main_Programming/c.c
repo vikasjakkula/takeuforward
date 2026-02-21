@@ -54,3 +54,38 @@
 //     printf("%d", oddsum);
 //     printf("%d", evensum);
 // }
+
+// kth max of an array
+// #include <stdio.h>
+
+// void sortDescending(int arr[], int n) {
+//     for (int i = 0; i < n-1; i++) {
+//         for (int j = i+1; j < n; j++) {
+//             if (arr[i] < arr[j]) {
+//                 int temp = arr[i];
+//                 arr[i] = arr[j];
+//                 arr[j] = temp;
+//             }
+//         }
+//     }
+// }
+
+// int main() {
+//     int k;
+//     printf("Enter kth max index: ");
+//     scanf("%d", &k);
+
+//     int arr[5] = {1, 2, 3, 4, 5};
+//     int n = 5;
+
+//     if(k < 1 || k > n) {
+//         printf("Invalid value for k. Must be between 1 and %d.\n", n);
+//         return 1;
+//     }
+
+//     sortDescending(arr, n);
+
+//     printf("%dth max of the array is: %d\n", k, arr[k-1]);
+
+//     return 0;
+// }
