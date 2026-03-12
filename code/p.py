@@ -109,3 +109,15 @@
 
 # y= lambda x: x*x*x*x
 # print(y(2))
+
+def process(data):
+    match data:
+    case[x,y]:
+        print(f"two-elements list: {x} {y}")
+    case[x,y,z]:
+        print(f"three-elements list: {x} {y}")
+    case_:
+        print("unknown data format")
+process([1,2])
+process([1,2,3])
+process([1,2,3,4])

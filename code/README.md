@@ -1,98 +1,8 @@
-# code
-# bun --watch projectname.js
-# npx nodemon fileName
-# node filename.js
-# gcc projectname.c -o projectname => .\projectname
-# python3 projectname.py
-**Use this folder most of the time:** learn and write code here.
-
----
-
-**full_stack_dev_✅**
-**Frontend (reactjs, nextjs)**
- - [ ] usestate
- - [ ] useeffect
- - [ ] button_onclick
- - [ ] functional fetching
- - [ ] conditional rendering
-
-**Backend (nodejs, express, axios)**
- - [ ] api
- - [ ] logic / function
-
----
-
-# 7-Week JavaScript Mastery Roadmap ✅
-
----
-
-## WEEK 1: Core Foundations
-
-- [✅] **Day 1:**  
-  - [✅] let / const  
-  - [✅] data types  
-  - [✅] operators  
-  - [✅] conditionals (if/else)  
-  - [✅] loops  
-  - [✅] functions (declaration/expression)
-
-## WEEK 2: Functions & Scope
-
-- [✅] **Day 2:**  
-  - [✅] arrow functions  
-  - [✅] function scope  
-  - [✅] block & global scope  
-  - [✅] hoisting
-
-## WEEK 3: Objects & Arrays
-
-- [ ] **Day 3:**  
-  - [ ] objects  
-  - [ ] arrays  
-  - [ ] map  
-  - [ ] filter  
-  - [ ] reduce  
-  - [ ] shallow & deep copies
-
-## WEEK 4: Asynchronous JavaScript
-
-- [ ] **Day 4:**  
-  - [ ] callbacks  
-  - [ ] promises  
-  - [ ] then / catch  
-  - [ ] async / await  
-  - [ ] try / catch
-
-## WEEK 5: JavaScript Internals
-
-- [ ] **Day 5:**  
-  - [ ] execution context  
-  - [ ] call stack  
-  - [ ] event loop  
-  - [ ] microtasks & macrotasks
-
-## WEEK 6: DOM & Practical JS
-
-- [ ] **Day 6:**  
-  - [ ] DOM manipulation  
-  - [ ] events  
-  - [✅] fetch API  
-  - [✅] setTimeout  
-  - [✅] setInterval
-
-## WEEK 7: Build & Revision
-
-- [ ] **Day 7:**  
-  - [ ] Build mini async app  
-  - [ ] Use promises & async/await  
-  - [ ] Revise old code (rewrite from scratch)  
-  - [ ] Explain your code out loud
-
----
+# List of DSA day-to-day summary
 
 - [✅] 🐍 **Python **
 
-- [ ] **Day 1:**
+- [ ] **Day 1:Basics**
   - [✅] Basics
   - [✅] Second maximum of an array
   - [✅] Max || Min difference of an array
@@ -108,10 +18,42 @@
   - [ ] Armstrong number
   - [ ] Magic number
 
-- [ ] **Day 2:** 
+- [ ] **Day 2:Searching&sorting** 
   - [ ] Linear || Binary searching
   - [ ] Bubble || Selection || Insertion || Quick || counting || Radix || Merge sorting
 
+- [ ] **Day 3:Python Lab Programs**
+
+  - [ ] Multiplication Table
+  - [ ] Program to Count Down from a Given Number
+  - [ ] Prime Numbers Between 1 and 20
+  - [ ] Find Roots of Quadratic Equation
+  - [ ] Read Employee Data from Keyboard
+  - [ ] Check Whether Number is Between 1 and 100
+  - [ ] Single Digit Number to English Word
+  - [ ] Overtime Pay of 10 Employees
+  - [ ] Library Fine Calculation
+  - [ ] Power of a Number
+  - [ ] Factorial Using Recursion
+  - [ ] Linear Search (Iterative) and Complexity
+  - [ ] Bubble Sort and Complexity
+  - [ ] Find Largest Element in List
+  - [ ] Find Second Largest Element in List
+  - [ ] Remove Duplicates from List (10 Elements)
+  - [ ] Reverse List
+  - [ ] Find Sum and Average of List
+  - [ ] Find Even and Odd Lists
+  - [ ] Find Common Elements Between Two Lists
+  - [ ] Rotate List
+  - [ ] Find Maximum and Minimum in Tuple
+  - [ ] Remove Duplicates from List
+  - [ ] Find Common Elements in Two Sets
+  - [ ] Count Frequency of Characters in String
+  - [ ] Word Frequency Counter in Sentence
+  - [ ] Count Vowels and Consonants in String
+  - [ ] Count Words in Sentence
+
+---
 
 ## WEEK 1: Getting Started with Python
 
@@ -213,5 +155,83 @@
 - [ ] **Day 26:**  
   - [ ] Modules & Importing  
   - [ ] Installing with pip
+
+---
+
+**full_stack_dev_✅**
+**Frontend (reactjs, nextjs)**
+ - [ ] usestate
+ - [ ] useeffect
+ - [ ] button_onclick
+ - [ ] functional fetching
+ - [ ] conditional rendering
+
+**Backend (nodejs, express, axios)**
+ - [ ] api
+ - [ ] logic / function
+
+# 7-Week JavaScript Mastery Roadmap ✅
+
+## WEEK 1: Core Foundations
+
+- [✅] **Day 1:**  
+  - [✅] let / const  
+  - [✅] data types  
+  - [✅] operators  
+  - [✅] conditionals (if/else)  
+  - [✅] loops  
+  - [✅] functions (declaration/expression)
+
+## WEEK 2: Functions & Scope
+
+- [✅] **Day 2:**  
+  - [✅] arrow functions  
+  - [✅] function scope  
+  - [✅] block & global scope  
+  - [✅] hoisting
+
+## WEEK 3: Objects & Arrays
+
+- [ ] **Day 3:**  
+  - [ ] objects  
+  - [ ] arrays  
+  - [ ] map  
+  - [ ] filter  
+  - [ ] reduce  
+  - [ ] shallow & deep copies
+
+## WEEK 4: Asynchronous JavaScript
+
+- [ ] **Day 4:**  
+  - [ ] callbacks  
+  - [ ] promises  
+  - [ ] then / catch  
+  - [ ] async / await  
+  - [ ] try / catch
+
+## WEEK 5: JavaScript Internals
+
+- [ ] **Day 5:**  
+  - [ ] execution context  
+  - [ ] call stack  
+  - [ ] event loop  
+  - [ ] microtasks & macrotasks
+
+## WEEK 6: DOM & Practical JS
+
+- [ ] **Day 6:**  
+  - [ ] DOM manipulation  
+  - [ ] events  
+  - [✅] fetch API  
+  - [✅] setTimeout  
+  - [✅] setInterval
+
+## WEEK 7: Build & Revision
+
+- [ ] **Day 7:**  
+  - [ ] Build mini async app  
+  - [ ] Use promises & async/await  
+  - [ ] Revise old code (rewrite from scratch)  
+  - [ ] Explain your code out loud
 
 ---
