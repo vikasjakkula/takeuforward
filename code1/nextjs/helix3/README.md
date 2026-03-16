@@ -43,7 +43,32 @@ Dashboard for the Helix3 environmental station: live sensor data via ESP32 WebSo
 
 3. **ESP32**: Run the provided firmware so it broadcasts JSON over WebSocket on port 81.
 
-4. **AI predictor** (optional): Run the Python Flask app on your laptop (e.g. port 5000). The dashboard polls `/predict` every 30s for rain probability and irrigation advice.
+4. **AI predictor** (optional): See [How to start localhost:5000/predict](#how-to-start-localhost-5000predict) below.
+
+### How to start localhost:5000/predict
+
+In a **separate terminal** (keep `npm run dev` running in another):
+
+```bash
+cd code1/nextjs/helix3/ai-predictor
+pip install -r requirements.txt
+python app.py
+```
+
+Then open http://localhost:5000/predict in the browser (or let the dashboard poll it). No API keys or cloud services needed.
+
+### API keys for the expo
+
+**You do not need any API keys** for the core agricultural/environmental station:
+
+| Part            | API key? | What you need                          |
+|-----------------|----------|----------------------------------------|
+| ESP32           | No       | Device on same Wi-Fi; set its IP in `.env.local` |
+| Next.js dashboard | No     | Just `npm run dev`                     |
+| AI predictor (Flask) | No | Run `python app.py` in `ai-predictor/` |
+| Supabase        | Only if you use login/register | Set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` in `.env.local` |
+
+For the **expo demo**, run: (1) ESP32 with the WebSocket firmware, (2) `python app.py` in `ai-predictor/`, (3) `npm run dev` in the project root. No keys required.
 
 ### Displayed data
 
