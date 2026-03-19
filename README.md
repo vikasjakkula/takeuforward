@@ -270,12 +270,33 @@
 - Files: `FILE*`, `fopen`, `fread`/`fwrite`/`fprintf`, `fclose`.
 
 ### Python (`code1/python/`)
-- Interpreted, dynamic typing; indentation = blocks.
-- Types: `int`, `float`, `str`, `list`, `dict`, `set`, `tuple`.
-- Control: `if`/`elif`/`else`, `for`, `while`; `range()` in loops.
-- Functions: `def`; optional args, `*args`, `**kwargs`.
-- No pointers; mutable vs immutable (lists vs tuples/strings).
-- Files: `open()`, `read`/`write`, context manager `with`.
+- Interpreted, multi-paradigm (procedural, OOP, functional), dynamic typing. Indentation defines code blocks.
+- Built-in types: `int`, `float`, `bool`, `str`, `list`, `tuple`, `set`, `dict`, `bytes`.
+- Control flow: `if`/`elif`/`else`, `for`, `while`; use `range()` for sequences.
+- Functions: `def`, `lambda`; supports optional/default args, `*args`, `**kwargs`. Decorators for meta-programming.
+- Modules and packages: `import`, virtual environments (`venv`, `pipenv`).
+- No pointers; but mutable (`list`, `dict`, `set`) vs immutable (`int`, `str`, `tuple`) types.
+- File I/O: `open()`, context manager `with open() as f`, read/write text and binary.
+- PDF manipulation: `PyPDF2`, `pdfplumber` (reading, extraction), `reportlab`, `fpdf` (creating/writing PDFs).
+- Web scraping: `requests` (HTTP), `BeautifulSoup` (HTML parsing), `lxml` (faster parsing, XPath), `Selenium` (browser automation).
+- Data science & scientific computing:
+  - Arrays/dataframes: `numpy`, `pandas`
+  - Plotting: `matplotlib`, `seaborn`, `plotly`
+  - Math/stats: `scipy`, `statistics`
+  - Jupyter Notebooks for interactive code
+- AI and machine learning:
+  - ML: `scikit-learn`, `xgboost`
+  - Deep learning: `tensorflow`, `keras`, `pytorch`
+  - Data handling: `pandas`, `h5py`
+  - NLP: `nltk`, `spacy`, `transformers`
+  - Vision: `opencv-python`, `PIL`/`pillow`
+  - Experiment tracking: `wandb`, `mlflow`
+- Model deployment: `Flask`, `FastAPI`, `gradio`, `streamlit`
+- Automation/scripting: `subprocess`, `os`, `shutil`, `pathlib`, `argparse` for CLI
+- Testing: `unittest`, `pytest`
+- Other essential libraries: `json`, `csv`, `xml.etree.ElementTree` (data interchange); `datetime`, `time` (dates/times).
+- Resources: Official docs, PyPI for third-party packages, active community on Stack Overflow, GitHub.
+
 
 ### JavaScript (`code1/js/`)
 - Runs in browser and Node (or Bun); single-threaded, event loop.
