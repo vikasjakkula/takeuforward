@@ -1,4 +1,4 @@
-# python3 file_name.py
+# python3 p.py
 
 # printing statement print(f"hello")
 
