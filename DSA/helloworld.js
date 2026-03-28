@@ -1,6 +1,6 @@
 // use npx nodemon fileName to run the file
 // node filename.js to run the file
-// # bun --watch projectname.js || npx nodemon fileName and node filename.js
+// # bun --watch helloworld.js || npx nodemon fileName and node filename.js
 
 /* Data types in javascript let, var, const */
 console.log("helloworld");
@@ -78,6 +78,8 @@ console.log("helloworld");
 //   });
 // }
 
-// orderfood(true)
-//   .then(result => console.log(result))
-//   .catch(error => console.log(error));
+// orderfood(false).then((result) => {
+//   console.log(result);
+// }).catch((error) => {
+//   console.log(error);
+// });
