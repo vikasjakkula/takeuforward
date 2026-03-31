@@ -369,3 +369,66 @@
 - Change data: `INSERT`, `UPDATE`, `DELETE`.
 
 ---
+
+Definition of Work
+├── Service
+│   ├── IT Support
+│   │   ├── Maintenance
+│   │   ├── Training
+│   │   └── Advisory
+│   ├── Consulting
+│   │   ├── Business
+│   │   ├── Legal
+│   │   └── Financial
+│   └── Creative Services
+│       ├── Design
+│       ├── Writing
+│       └── Marketing
+│
+└── Product
+    ├── Digital
+    │   ├── eBooks
+    │   ├── Apps
+    │   └── SaaS
+    ├── Physical
+    │   ├── Hardware
+    │   ├── Gadgets
+    │   └── Merchandise
+    └── Online Courses
+        ├── Recorded
+        └── Live Sessions
+
+graph TD
+    A[Definition of Work] --> B[Service]
+    A --> C[Product]
+
+    B --> D[IT Support]
+    B --> E[Consulting]
+    B --> F[Creative Services]
+
+    D --> D1[Maintenance]
+    D --> D2[Training]
+    D --> D3[Advisory]
+
+    E --> E1[Business]
+    E --> E2[Legal]
+    E --> E3[Financial]
+
+    F --> F1[Design]
+    F --> F2[Writing]
+    F --> F3[Marketing]
+
+    C --> G[Digital]
+    C --> H[Physical]
+    C --> I[Online Courses]
+
+    G --> G1[eBooks]
+    G --> G2[Apps]
+    G --> G3[SaaS]
+
+    H --> H1[Hardware]
+    H --> H2[Gadgets]
+    H --> H3[Merchandise]
+
+    I --> I1[Recorded]
+    I --> I2[Live Sessions]
