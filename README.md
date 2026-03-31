@@ -206,7 +206,7 @@
   - [ ] callbacks  
   - [ ] promises  
   - [ ] then / catch  
-  - [ ] async / await  
+  - [✅] async / await  
   - [ ] try / catch
 
 ## WEEK 5: JavaScript Internals
