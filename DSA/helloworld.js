@@ -28,11 +28,17 @@ console.log("helloworld");
 // });
 // fetch("https://jsonplaceholder.typicode.com/posts")
 
-
+// Fix: Properly handle errors and correct missing closing bracket for .then()
 // fetch('https://jsonplaceholder.typicode.com/posts')
 //   .then(res => res.json())
 //   .then(data => {
-//     console.log(data);
+//     // Print only the title, userId, id for the first 6 posts
+//     data.slice(0, 6).forEach(post => {
+//       console.log(`title: ${post.title}, userId: ${post.userId}, id: ${post.id}`);
+//     });
+//   })
+//   .catch(error => {
+//     console.log('Error fetching posts:', error);
 //   });
 
 // let result;
@@ -82,4 +88,6 @@ console.log("helloworld");
 //   console.log(result);
 // }).catch((error) => {
 //   console.log(error);
-// });
+// }).catch((error) => {
+//   console.log(error);
+// })

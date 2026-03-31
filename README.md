@@ -24,25 +24,25 @@
 
 - [ ] **Day 3:Python Lab Programs**
 
-  - [ ] Multiplication Table
-  - [ ] Program to Count Down from a Given Number
-  - [ ] Prime Numbers Between 1 and 20
-  - [ ] Find Roots of Quadratic Equation
-  - [ ] Read Employee Data from Keyboard
-  - [ ] Check Whether Number is Between 1 and 100
+  - [✅] Multiplication Table
+  - [✅] Program to Count Down from a Given Number
+  - [✅] Prime Numbers Between 1 and 20
+  - [✅] Find Roots of Quadratic Equation
+  - [✅] Read Employee Data from Keyboard
+  - [✅] Check Whether Number is Between 1 and 100
   - [ ] Single Digit Number to English Word
   - [ ] Overtime Pay of 10 Employees
   - [ ] Library Fine Calculation
-  - [ ] Power of a Number
-  - [ ] Factorial Using Recursion
-  - [ ] Linear Search (Iterative) and Complexity
+  - [✅] Power of a Number
+  - [✅] Factorial Using Recursion
+  - [✅] Linear Search (Iterative) and Complexity
   - [ ] Bubble Sort and Complexity
-  - [ ] Find Largest Element in List
+  - [✅] Find Largest Element in List
   - [ ] Find Second Largest Element in List
-  - [ ] Remove Duplicates from List (10 Elements)
+  - [✅] Remove Duplicates from List (10 Elements)
   - [ ] Reverse List
-  - [ ] Find Sum and Average of List
-  - [ ] Find Even and Odd Lists
+  - [✅] Find Sum and Average of List
+  - [✅] Find Even and Odd Lists
   - [ ] Find Common Elements Between Two Lists
   - [ ] Rotate List
   - [ ] Find Maximum and Minimum in Tuple
@@ -240,8 +240,8 @@
 
 - [ ] **Day 1:**
   - [✅] Protected Routes
-  - [ ] 
-  - [ ]  
+  - [ ]  storing data
+  - [ ]  multiple outlets/ pages
   - [ ]  
   - [ ]  
   - [ ]  
@@ -258,6 +258,37 @@
 - **Python:** `python script.py` or `python3 script.py`.
 - **Next.js:** `cd code2/nextjs/<project>` then `npm install` and `npm run dev`.
 
+  ## SaaS Project
+
+---
+
+- [ ] **Smart Todo Pro** – A task manager with categories, deadlines, priority levels, dark mode, and productivity analytics for busy professionals and students who want clarity and focus.
+- [ ] **WeddingCard Studio** – A designer-friendly platform with 100+ customizable wedding invitation templates, editable text/colors/fonts, image upload, and one-click PDF/WhatsApp export for modern couples.
+- [ ] **LocalVendor Finder** – Hyperlocal marketplace that connects users with nearby photographers, decorators, caterers, and planners, with reviews, portfolios, pricing, and booking requests.
+- [ ] **Expense Splitter Pro** – Advanced bill-splitting app for roommates and friend groups with shared expenses, automatic share calculation, settlement history, and payment reminders.
+- [ ] **Student Budget Tracker** – Simple budgeting and expense tracking for students with spending categories, charts, alerts for overspending, and monthly savings targets.
+- [ ] **Resume Builder AI** – Resume creator with ATS-friendly templates, AI-suggested bullet points based on role/industry, and one-click PDF export for job seekers.
+- [ ] **Portfolio Generator** – Tool where creators fill in their details and instantly get a clean, mobile-friendly portfolio website they can host or export.
+- [ ] **InvoiceCraft** – Invoicing system for freelancers/solopreneurs to create branded invoices, track due/paid invoices, send reminders, and export PDF reports.
+- [ ] **Event RSVP Manager** – Event dashboard to create event pages (weddings, birthdays, meetups), share unique invite links, collect RSVPs, and manage guest lists.
+- [ ] **Temple Directory App** – Searchable directory of temples with timings, rituals, contact info, maps, and integrated donation links for devotees and temple admins.
+- [ ] **HabitForge** – Habit-tracking app with streaks, reminders, progress analytics, and accountability features to help users stick to daily routines.
+- [ ] **Daily Notes Vault** – Secure cloud notes app with encryption, tagging, markdown support, and powerful search for creators, founders, and professionals.
+- [ ] **Job Tracker Pro** – Pipeline-style tracker to log job applications, roles, company details, interview dates, follow-ups, and status for serious job seekers.
+- [ ] **Freelancer Marketplace (Mini)** – Lightweight platform where clients post specific tasks and vetted freelancers submit bids, focused on 1–2 niches (e.g., design/dev).
+- [ ] **Digital Wedding Planner** – End-to-end wedding organizer with checklists, budget tracker, guest list, vendor tracking, and timelines for couples and planners.
+- [ ] **QR Menu Builder** – Tool for restaurants to design digital menus, generate QR codes, and update items/prices in real-time without reprinting anything.
+- [ ] **Online Certificate Generator** – System for institutes/events to bulk-generate and email personalized certificates with unique IDs and downloadable PDFs.
+- [ ] **Personal Finance Dashboard** – Net-worth and cashflow dashboard to track assets, liabilities, income, and spending, with charts and insights for individuals and families.
+- [ ] **Subscription Tracker** – Dashboard to track Netflix, Spotify, and other subscriptions with renewal dates, monthly cost summary, and reminder notifications.
+- [ ] **Online Booking System** – Booking engine for salons, tutors, or consultants with time-slot selection, availability management, and confirmation/reminder messages.
+- [ ] **Small Business CRM** – Simple CRM for small local businesses to log leads, customers, follow-ups, and deals, with basic analytics on conversions and revenue.
+- [ ] **Digital Product Marketplace** – Platform to sell digital assets (UI kits, templates, wedding cards, resumes) with seller dashboards, previews, and secure delivery.
+- [ ] **AI Caption Generator** – AI-powered caption generator for Instagram and other social platforms, focused on businesses and creators with niche-specific tone presets.
+- [ ] **Custom Form Builder** – Drag-and-drop form builder with embeddable forms, response dashboard, export to CSV, and simple automation hooks (e.g., email alerts).
+
+
+  
 **Languages_Dev**
 
 ### C (`code1/c/`)
