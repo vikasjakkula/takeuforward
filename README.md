@@ -372,28 +372,28 @@
 
 ***Definition of Work
 ├── Service
-├──── IT Support
-├────── Maintenance
-├────── Training
-├────── Advisory
-├──── Consulting
-├────── Business
-├────── Legal
-├────── Financial
-├──── Creative Services
-├────── Design
-├────── Writing
-├────── Marketing
+│   ├── IT Support
+│   │   ├── Maintenance
+│   │   ├── Training
+│   │   └── Advisory
+│   ├── Consulting
+│   │   ├── Business
+│   │   ├── Legal
+│   │   └── Financial
+│   └── Creative Services
+│       ├── Design
+│       ├── Writing
+│       └── Marketing
+│
 └── Product
-├──── Digital
-├────── eBooks
-├────── Apps
-├────── SaaS
-├──── Physical
-├────── Hardware
-├────── Gadgets
-├────── Merchandise
-├──── Online Courses
-├────── Recorded
-├────── Live Sessions
-***
+    ├── Digital
+    │   ├── eBooks
+    │   ├── Apps
+    │   └── SaaS
+    ├── Physical
+    │   ├── Hardware
+    │   ├── Gadgets
+    │   └── Merchandise
+    └── Online Courses
+        ├── Recorded
+        └── Live Sessions***
