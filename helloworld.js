@@ -1,9 +1,9 @@
-// use npx nodemon fileName to run the file
+// use npx nodemon helloworld.js to run the file
 // node filename.js to run the file
-// # bun --watch helloworld.js || npx nodemon fileName and node filename.js
+// # bun --watch helloworld.js || npx nodemon helloworld.js and node helloworld.js
 
 /* Data types in javascript let, var, const */
-console.log("helloworld");
+console.log("JS code executing...");
 /*
   deep copy 
   shallow copy
