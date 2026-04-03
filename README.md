@@ -242,13 +242,82 @@
   - [✅] Protected Routes
   - [ ]  storing data
   - [ ]  multiple outlets/ pages
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
+  - [ ]  build an chrome extension using js, html
+
+---
+
+  [ 💰 GLOBAL WEALTH CREATION ]
+ │
+ ├── 🛠️ SERVICES (Monetizing Time & Expertise)
+ │   ├──► Professional Advisory (Consulting, Legal, Accounting)
+ │   ├──► Technology Services (Custom Dev, Cloud, Cyber)
+ │   ├──► Creative Agencies (Marketing, Design, PR)
+ │   └──► Health & Personal Care (Medical, Fitness, Therapy)
+ │
+ ├── 📦 PRODUCTS (Scalable Goods & IP)
+ │   ├──► Digital Assets (SaaS, Apps, E-books, Games)
+ │   ├──► Physical Goods (DTC Brands, CPG, Hardware)
+ │   ├──► E-commerce Arbitrage (FBA, Dropshipping, Wholesale)
+ │   └──► Intellectual Property (Patents, Franchises, Royalties)
+ │
+ ├── 📈 INVESTMENTS & FINANCE (Capital Allocation)
+ │   ├──► Private Markets (Venture Capital, Private Equity, Angels)
+ │   ├──► Investment Banking (M&A, Underwriting, Restructuring)
+ │   ├──► Public Markets (Equities, Hedge Funds, Forex, Options)
+ │   ├──► Real Estate (Commercial, Residential, REITs, Land)
+ │   └──► Alternative Assets (Crypto, Commodities, Collectibles)
+ │
+ ├── 🎓 EDUCATION (Monetizing Knowledge)
+ │   ├──► Asynchronous (Online Courses, Paid Newsletters)
+ │   ├──► High-Ticket (Masterminds, Executive Coaching)
+ │   └──► Institutional (EdTech, Traditional Academia)
+ │
+ ├── 🌐 PLATFORMS (Connecting Markets)
+ │   ├──► Marketplace Ownership (Two-sided networks)
+ │   ├──► Performance/Affiliate Marketing (CPA, Lead Gen)
+ │   └──► Gig Economy (Labor/Asset sharing platforms)
+ │
+ ├── 🎭 MEDIA & ENTERTAINMENT (Monetizing Attention)
+ │   ├──► Content Creation (Ad-sense, Sponsorships, Streaming)
+ │   ├──► Subscriptions (Patreon, Private Communities)
+ │   └──► Gaming (eSports, Virtual Economies)
+ │
+ ├── 👔 EMPLOYMENT (Structured Careers)
+ │   ├──► Corporate/Executive (C-Suite, Equity/Options)
+ │   ├──► Commission-Based (Enterprise Sales, Real Estate Agent)
+ │   └──► Public Sector (Government, Military, NGOs)
+ │
+ └── 🧰 TRADES & INFRASTRUCTURE (Physical World)
+     ├──► Heavy Construction & Engineering
+     ├──► Specialized Trades (HVAC, Electrical, Plumbing)
+     ├──► Logistics (Freight, Shipping Fleet, Warehousing)
+     └──► Extraction (Agriculture, Mining, Timber)
+---
+  [ THE WEALTH ECOSYSTEM ]
+                       ║
+      ╔════════════════╩════════════════╦════════════════════╗
+      ▼                                 ▼                    ▼
+[ CAPITAL ]                      [ LABOR/SKILL ]      [ PRODUCT/IP ]
+      │                                 │                    │
+      ├─► Private Equity                ├─► Consulting       ├─► SaaS / Apps
+      ├─► Venture Capital               ├─► Skilled Trades   ├─► E-commerce 
+      ├─► Investment Banking            ├─► Medical/Legal    ├─► Online Courses
+      └─► Real Estate                   └─► Creative Arts    └─► Franchising
+      
+      ║                                 ║                    ║
+      ╚════════════════╦════════════════╩════════════════════╝
+                       ▼
+               [ DISTRIBUTION ]
+                       │
+      ┌────────────────┴────────────────┐
+      ▼                                 ▼
+[ PLATFORMS ]                    [ MEDIA/ATTENTION ]
+      │                                 │
+      ├─► Amazon/Shopify                ├─► Content Creation
+      ├─► Uber/Upwork                   ├─► Brand Deals
+      └─► Affiliate Networks            └─► Paid Communities
+
+---
 
 ## Run / install
 
@@ -367,33 +436,3 @@
 - Queries: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`.
 - Filter/join: `AND`/`OR`, `IN`, `LIKE`; `JOIN` (INNER, LEFT).
 - Change data: `INSERT`, `UPDATE`, `DELETE`.
-
----
-
-***Definition of Work
-├── Service
-│   ├── IT Support
-│   │   ├── Maintenance
-│   │   ├── Training
-│   │   └── Advisory
-│   ├── Consulting
-│   │   ├── Business
-│   │   ├── Legal
-│   │   └── Financial
-│   └── Creative Services
-│       ├── Design
-│       ├── Writing
-│       └── Marketing
-│
-└── Product
-    ├── Digital
-    │   ├── eBooks
-    │   ├── Apps
-    │   └── SaaS
-    ├── Physical
-    │   ├── Hardware
-    │   ├── Gadgets
-    │   └── Merchandise
-    └── Online Courses
-        ├── Recorded
-        └── Live Sessions***
