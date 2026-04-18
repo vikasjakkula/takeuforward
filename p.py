@@ -121,3 +121,21 @@
 # process([1,2])
 # process([1,2,3])
 # process([1,2,3,4])
+
+# #removing duplicates from a list
+# def rem_dup(lst):
+#     return set(lst)
+# lst = (1, 2, 3, 4, 5, 5, 5, 5, 5)
+# result = rem_dup(lst)
+# print(result)
+
+# result2 = [::-1]
+# print(result2)
+
+# inp = str(input("Enter a array: "))
+# arr = inp.split(" ")
+# leng = len(arr)
+# sum = 0
+# for i in range(leng):
+#     sum += int(arr[i])
+# print(sum)
