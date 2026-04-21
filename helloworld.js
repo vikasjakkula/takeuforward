@@ -229,28 +229,37 @@ console.log("JS code executing...");
 
 // 6. Deep and Shallow copy
 
-// Shallow copy example
-const student = {
-  name: "Alice",
-  grades: { math: 90, science: 85 }
-};
+// // Shallow copy example
+// const student = {
+//   name: "Alice",
+//   grades: { math: 90, science: 85 }
+// };
 
-const shallowCopy = { ...student };
-shallowCopy.grades.math = 100;
+// const shallowCopy = { ...student };
+// shallowCopy.grades.math = 100;
 
-console.log("Shallow Copy Example:");
-console.log("student.grades.math:", student.grades.math);      // Output: 100
-console.log("shallowCopy.grades.math:", shallowCopy.grades.math); // Output: 100
+// console.log("Shallow Copy Example:");
+// console.log("student.grades.math:", student.grades.math);      // Output: 100
+// console.log("shallowCopy.grades.math:", shallowCopy.grades.math); // Output: 100
 
-// Deep copy example
-const employee = {
-  name: "Bob",
-  address: { city: "New York", zip: 10001 }
-};
+// // Deep copy example
+// const employee = {
+//   name: "Bob",
+//   address: { city: "New York", zip: 10001 }
+// };
 
-const deepCopy = JSON.parse(JSON.stringify(employee));
-deepCopy.address.city = "San Francisco";
+// const deepCopy = JSON.parse(JSON.stringify(employee));
+// deepCopy.address.city = "San Francisco";
 
-console.log("\nDeep Copy Example:");
-console.log("employee.address.city:", employee.address.city);         // Output: "New York"
-console.log("deepCopy.address.city:", deepCopy.address.city);         // Output: "San Francisco"
+// console.log("\nDeep Copy Example:");
+// console.log("employee.address.city:", employee.address.city);         // Output: "New York"
+// console.log("deepCopy.address.city:", deepCopy.address.city);         // Output: "San Francisco"
+
+// function iteration(n){
+//   let ans=0;
+//   for(let i=0; i<n; i++){
+//     ans +=i
+//   }
+//   return ans;
+// }
+// console.log(iteration(99))
