@@ -6,6 +6,13 @@ Refer to README-style index at top, then see code lines below. All use numpy/pan
 Comments indicate what each line does. NO full programs, only "core logic". Add your own inputs/outputs.
 Mark ✅ if you understand.
 
+# n =int(input("Enter number of numbers to print: "))
+# elements=[]
+# for i in range(n):
+#     val = int(input(f"Enter number {i+1}: "))
+#     elements.append(val)
+# print(f"array elements are: {elements}")
+
 ==============================================
 Index: Program List for Revision (Put ✅ if clear)
 ----------------------------------------------
@@ -127,7 +134,7 @@ is_palindrome = s == s[::-1]
 nodupes = ''.join(pd.Series(list(s)).drop_duplicates())
 
 ### 24. String: Print Without Duplication
-nodup_print = ''.join(sorted(set(s), key=s.index))        # order preserved by key
+nodup_print = ''.join(sorted(set(s), key=s.index))        # order preserved by key[]
 
 ### 25. String: Anagram Test (ignore case/space)
 a1 = ''.join(ch.lower() for ch in a if ch.isalnum())
