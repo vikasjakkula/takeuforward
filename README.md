@@ -17,6 +17,47 @@
   - [ ] Fibbonaci series
   - [ ] Armstrong number
   - [ ] Magic number
+----------------------------------------------
+ 1.  Sum of Array/List                    [✅]
+ 2.  Max-Min of Array                     [✅]
+ 3.  Search Element (Find Index)          [✅]
+ 4.  Reverse List/Array                   [✅]
+ 5.  Left Rotate by 1                     [✅]
+ 6.  Right Rotate by k                    [✅]
+ 7.  Remove Duplicates Unordered          [✅]
+ 8.  Remove Duplicates Keep Order         [✅]
+ 9.  Split +ves/-ves                      [✅]
+10.  Split Even/Odd by Index              [✅]
+11.  Separate Even/Odd Elements           [✅]
+12.  Second Largest (Distinct)            [✅]
+13.  Sorting Array                        [✅]
+14.  Merge Two Lists Alternately          [✅]
+15.  Common Elements in Two Lists         [✅]
+16.  Move Zeroes to the End               [✅]
+17.  Count Occurrence of Element          [✅]
+18.  Position of Character in String      [✅]
+19.  String: Char Frequency               [✅]
+20.  String: Vowel Count                  [✅]
+21.  String: Find Vowels                  [✅]
+22.  String: Palindrome                   [✅]
+23.  String: Remove Duplicates            [✅]
+24.  String: Print Without Duplication    [✅]
+25.  String: Anagram Test                 [✅]
+26.  Square of Number                     [✅]
+27.  Reverse a Number                     [✅]
+28.  Prime Numbers (MATLAB/Np)            [✅]
+29.  Factorial                            [✅]
+30.  Matrix: Create & Print               [✅]
+31.  Matrix: Transpose                    [✅]
+32.  Matrix: Diagonal Sum                 [✅]
+33.  Matrix: Identity Check               [✅]
+34.  Matrix: Add/Subtract/Multiply        [✅]
+35.  Student Marks/Comparison             [✅]
+36.  Dictionary: Access & Count           [✅]
+37.  Dictionary: Swap Key/Value           [✅]
+38.  Dictionary: Filter By Value          [✅]
+39.  Dictionary: Merge Dictionaries       [✅]
+==============================================
 
 - [ ] **Day 2:Searching&sorting** 
   - [ ] Linear || Binary searching

@@ -1,63 +1,11 @@
-"""
-NumPy / Pandas / MATLAB-Style Programming Cheatsheet: All Key Logics ✅
+n =int(input("Enter number of numbers to print: "))
+elements=[]
+for i in range(n):
+    val = int(input(f"Enter number {i+1}: "))
+    elements.append(val)
+print(f"array elements are: {elements}")
 
-USE: Each program is listed & numbered with its direct array/matrix/struc logic—just copy-paste/modify vars.
-Refer to README-style index at top, then see code lines below. All use numpy/pandas/matlab style. 
-Comments indicate what each line does. NO full programs, only "core logic". Add your own inputs/outputs.
-Mark ✅ if you understand.
-
-# n =int(input("Enter number of numbers to print: "))
-# elements=[]
-# for i in range(n):
-#     val = int(input(f"Enter number {i+1}: "))
-#     elements.append(val)
-# print(f"array elements are: {elements}")
-
-==============================================
-Index: Program List for Revision (Put ✅ if clear)
-----------------------------------------------
- 1.  Sum of Array/List                    [✅]
- 2.  Max-Min of Array                     [✅]
- 3.  Search Element (Find Index)          [✅]
- 4.  Reverse List/Array                   [✅]
- 5.  Left Rotate by 1                     [✅]
- 6.  Right Rotate by k                    [✅]
- 7.  Remove Duplicates Unordered          [✅]
- 8.  Remove Duplicates Keep Order         [✅]
- 9.  Split +ves/-ves                      [✅]
-10.  Split Even/Odd by Index              [✅]
-11.  Separate Even/Odd Elements           [✅]
-12.  Second Largest (Distinct)            [✅]
-13.  Sorting Array                        [✅]
-14.  Merge Two Lists Alternately          [✅]
-15.  Common Elements in Two Lists         [✅]
-16.  Move Zeroes to the End               [✅]
-17.  Count Occurrence of Element          [✅]
-18.  Position of Character in String      [✅]
-19.  String: Char Frequency               [✅]
-20.  String: Vowel Count                  [✅]
-21.  String: Find Vowels                  [✅]
-22.  String: Palindrome                   [✅]
-23.  String: Remove Duplicates            [✅]
-24.  String: Print Without Duplication    [✅]
-25.  String: Anagram Test                 [✅]
-26.  Square of Number                     [✅]
-27.  Reverse a Number                     [✅]
-28.  Prime Numbers (MATLAB/Np)            [✅]
-29.  Factorial                            [✅]
-30.  Matrix: Create & Print               [✅]
-31.  Matrix: Transpose                    [✅]
-32.  Matrix: Diagonal Sum                 [✅]
-33.  Matrix: Identity Check               [✅]
-34.  Matrix: Add/Subtract/Multiply        [✅]
-35.  Student Marks/Comparison             [✅]
-36.  Dictionary: Access & Count           [✅]
-37.  Dictionary: Swap Key/Value           [✅]
-38.  Dictionary: Filter By Value          [✅]
-39.  Dictionary: Merge Dictionaries       [✅]
-==============================================
-
-
+'''
 ### 1. Sum of Array/List
 arr_sum = np.sum(arr)                             # [numpy]
 
@@ -185,3 +133,4 @@ filtered = {k: v for k, v in d.items() if v > min_value}
 
 ### 39. Dictionary: Merge Two Dictionaries
 merged_dict = {**d1, **d2}                               # python3.5+/matlab style: structcat
+'''
