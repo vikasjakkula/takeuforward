@@ -1,9 +1,33 @@
-n =int(input("Enter number of numbers to print: "))
-elements=[]
-for i in range(n):
-    val = int(input(f"Enter number {i+1}: "))
-    elements.append(val)
-print(f"array elements are: {elements}")
+# n =int(input("Enter n: "))
+# elements=[]
+# for i in range(n):
+#     val = int(input(f"Enter number {i+1}: "))
+#     elements.append(val)
+# print(f"array elements are: {elements}")
+# print(f"sorted array are: {sorted(elements)}")
+# sum = 0
+# def sum_elements(elements):
+#     for i in range(len(elements)):
+#         sum += element[i]
+#         return sum
+# print(f"sum of all elements are: {sum_elements()}")
+# k = int(input(f"Enter kth max to find: "))
+# new_elements = sorted(elements)
+# new_elements_reversed = elements[::-1]
+# print(f"kth max of sorted elements is: {new_elements[-k]}, reversed array are: {new_elements_reversed}")
+# def max(arr):
+#     for i in range(len(arr)):
+#         for j in range(len(arr)):
+#             if arr[i]>arr[i+1]:
+#                 arr[j], arr[j+1]=arr[j+1], arr[j]
+#                 return arr
+# if i need to find kth max of an array 1. sort the array => print kth elements from the ending 2.
+# sentence = input("Enter a sentence: ")
+# result = len(sentence.split())
+# result2 = len(sentence.replace(" ", ""))
+# print(f"no.of words in above sentence are: {result}")
+# print(f"no.of alphabets in above sentence are: {result2}")
+
 
 '''
 ### 1. Sum of Array/List
